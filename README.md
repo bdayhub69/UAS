@@ -16,7 +16,7 @@ Aplikasi Sederhana Data Pemantauan Covid-19 Di Wilayah Indonesia terdiri dari :
 
 
 
-KETERANGAN Fungsi yang ada di php :
+Keterangan fungsi yang ada di php :
 
     • mysqli_connect ( ) : Membuat koneksi ke database.
 
