@@ -1,26 +1,26 @@
 Aplikasi Sederhana Data Pemantauan Covid-19 Di Wilayah Indonesia terdiri dari :
 
-    •	Form login
+    •Form login
 
-    •	Form input data
+    •Form input data
 
-    •	Simpan data 
+    •Simpan data 
 
-    •	Menampilkan data 
+    •Menampilkan data 
 
-    •	Edit data 
+    •Edit data 
 
-    •	Hapus data 
+    •Hapus data 
 
-    •	Cetak data
+    •Cetak data
 
 
 
 KETERANGAN Fungsi yang ada di php :
 
-•	mysqli_connect ( ) : Membuat koneksi ke database.
+    •	mysqli_connect ( ) : Membuat koneksi ke database.
 
-•	mysqli_fetch_array ( ) : Mengambil hasil baris sebagai asosiatif, array numerik, atau keduanya dari database.
+    •	mysqli_fetch_array ( ) : Mengambil hasil baris sebagai asosiatif, array numerik, atau keduanya dari database.
 
 •	mysqli_query ( ) : Melakukan query terhadap database. 
 
