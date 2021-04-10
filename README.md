@@ -1,6 +1,9 @@
 Aplikasi Sederhana Data Pemantauan Covid-19 Di Wilayah Indonesia terdiri dari :
-•	Form login 
-•	Form input data 
+
+•	Form login
+
+•	Form input data
+
 •	Simpan data 
 •	Menampilkan data 
 •	Edit data 
